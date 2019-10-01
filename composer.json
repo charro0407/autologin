@@ -1,7 +1,10 @@
 {
     "name": "watson/autologin",
     "description": "Autologin package for Laravel",
-    "keywords": ["laravel", "autologin"],
+    "keywords": [
+        "laravel",
+        "autologin"
+    ],
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +16,7 @@
         "php": ">=5.5.0",
         "illuminate/contracts": "5.*",
         "illuminate/support": "5.*",
-        "nesbot/carbon": "1.*"
+        "nesbot/carbon": "^2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "4.5.*"
